@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+dist/
+build/
+*.log
+accounts/accounts.js
+config/proxy_list.js
+yarn.lock
+.DS_Store 
+Thumbs.db  

@@ -1,0 +1,32 @@
+{
+  "name": "flow3-network-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "For sharing bandwith to earning flow3.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/start.js",
+    "setup": "node scripts/setup.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
+  },
+  "keywords": [
+    "flow3-network",
+    "network",
+    "bandwith",
+    "sharing"
+    ],
+  "author": "Nofan Rambe",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.7.9",
+    "bs58": "^5.0.0",
+    "chalk": "^4.1.2",
+    "https-proxy-agent": "^7.0.6",
+    "socks-proxy-agent": "^8.0.5",
+    "tweetnacl": "^1.0.3",
+    "user-agents": "^1.1.435"
+  }
+}
