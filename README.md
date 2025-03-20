@@ -11,7 +11,7 @@ For sharing bandwith to earning flow3.
 ## PREREQUISITES
 
 - Node.js v18.20.6 LTS [Download](https://nodejs.org/dist/v18.20.6/node-v18.20.6-x64.msi).
-- Account Flow3 [Flow3](https://dashboard.flow3.tech/)
+- Account [Flow3](https://dashboard.flow3.tech?ref=dz23cJ13n)
 - Proxy (Optional). Best Proxy [Cherry Proxy](https://center.cherryproxy.com/)
 
 ### SETUP & CONFIGURE BOT
